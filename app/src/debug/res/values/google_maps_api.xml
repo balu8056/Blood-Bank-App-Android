@@ -1,0 +1,23 @@
+<resources>
+    <!--
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=E8:B5:80:F7:42:82:26:15:2B:02:48:5D:85:52:25:80:08:3A:8E:05%3Bcom.example.bloodapp.ui.home.fragments.find_donar_loc
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.example.bloodapp.ui.home.fragments.find_donar_loc
+
+    SHA-1 certificate fingerprint:
+    E8:B5:80:F7:42:82:26:15:2B:02:48:5D:85:52:25:80:08:3A:8E:05
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    AIzaSyAUfpa3uzk9Ch9dHjwsQv3EAHixeCNWzTE
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyA1HhOWeE0Zm3vcqtJVRUgFFM3_swxR_uY</string>
+</resources>
